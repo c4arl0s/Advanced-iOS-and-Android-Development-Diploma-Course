@@ -1,0 +1,259 @@
+MÓDULO 1. Marco de trabajo para el desarrollo móvil
+PRESENTACIÓN
+OBJETIVO
+1 INTRODUCCIÓN
+    1.1 Antecedentes del desarrollo móvil
+    1.2 Capacidades a considerar en los móviles actuales 
+    1.3 Panorama del desarrollo de aplicaciones móviles
+2 TECNOLOGÍAS PARA EL DESARROLLO MÓVIL 
+    2.1 Entornos de desarrollo nativos
+    2.2 Entornos de desarrollo híbridos
+    2.3 Lenguajes de programación
+    2.4 Equipo de desarrollo
+3 APLICACIONES MÓVILES PARA ANDROID
+    3.1 Antecedentes
+    3.2 Historia de versiones
+    3.3 Arquitectura
+    3.4 Instalación de Android Studio
+    3.5 Requisitos para el desarrollador
+    3.6 Políticas y lineamientos de desarrollo
+4 APLICACIONES MÓVILES PARA iOS 
+    4.1 Antecedentes
+    4.2 Historia de versiones
+    4.3 Arquitectura
+    4.4 Instalación de Xcode
+    4.5 Requisitos para el desarrollador
+    4.6 Políticas y lineamientos de desarrollo (HIG) 
+    4.7 Procesos de aprobación
+5 SERVICIOS WEB EN EL DESARROLLO MÓVIL. 5.1 Introducción a los servicios Web
+    5.1.1 Arquitecturas comunes.
+    5.1.2 Tecnologías para el desarrollo.
+    5.2 Generación de datos
+    5.2.1 Descriptores de información.
+    5.2.2 Estructura de información basada en XML.
+    5.2.3 Estructura de información basada en JSON.
+5.3 Invocación de servicios Web
+    5.3.1 Ubicación de los servicios Web
+    5.3.2 Manejo de parámetros.
+    5.3.3 Manejo de errores.
+    5.3.4 Seguridad en el uso de servicios Web.
+5.4 Desarrollo de servicios Web
+    5.4.1 Contextos de operación y requerimientos operativos.
+    5.4.2 Implementación de los servicios Web.
+    5.4.3 Puesta en operación y documentación.
+6 SEGURIDAD DE LA INFORMACIÓN EN APLICACIONES MÓVILES
+    6.1 Introducción
+    6.1.1 Seguridad de la información
+    6.1.2 Ciberseguridad
+    6.1.3 Confidencialidad, integridad y disponibilidad de la información
+    6.1.4 Exposición de información
+6.2 Referentes internacionales de buenas prácticas en seguridad de la información
+    6.2.1 Políticas y modelos de seguridad
+    6.2.2 ISO 27000
+    6.2.3 Cobit, Itil, ISM3
+    6.2.4 Proyecto OWASP
+ENTREGABLE DEL MÓDULO
+MÓDULO 2. Metodologías ágiles para el desarrollo móvil
+PRESENTACIÓN
+OBJETIVO
+TEMARIO
+1 INTRODUCCIÓN
+    1.1 Manifiesto ágil
+    1.2 Principios y valores del manifiesto ágil
+2 PRINCIPALES METODOLOGÍAS ÁGILES PARA EL DESARROLLO DE SOFTWARE 
+    2.1 Agile
+    2.2 Lean 
+    2.3 Kanban 
+    2.4 Scrum 
+    2.5 XP
+3 GESTIÓN DEL TRABAJO CON TABLEROS 
+    3.1 Principios
+    3.2 Prácticas
+    3.3 Ley de Little
+4 ARTEFACTOS SCRUM
+    4.1 Product Backlog 
+    4.2 Sprint Backlog
+ENTREGABLE DEL MÓDULO
+MÓDULO 3. UX/UI para aplicaciones móviles
+PRESENTACIÓN
+OBJETIVO
+1. INTRODUCCIÓN AL USER EXPERIENCE 
+    1.1. Definición de UX
+    1.2. Definición de UI
+2. DIFERENCIA ENTRE UX Y UI
+    2.1. Comparativo de los conceptos
+    2.2. Ventajas del UX en un proyecto de desarrollo móvil
+3. PROCESOS BÁSICOS PARA FUNDAMENTAR UNA APLICACIÓN MÓVIL CON EL UX. 
+    3.1. Definición de los requerimientos mínimos para evaluar un proyecto
+    3.2. Evaluación de un proyecto
+4. ¿QUÉ ES UN WIREFRAME, MOCKUP Y PROTOTIPO? 
+    4.1. Fases de producción
+    4.2. Definición de wireframe
+    4.3. Definición de mockup y prototipo
+5. DESARROLLO DE WIFREFRAME
+    5.1. Producción de un Wireframe
+    5.2. Seguimiento a partir de la identificación de los requerimimentos 
+    5.3. Mejores prácticas
+6. DESARROLLO DE MOCKUPS
+    6.1. Concepto teórico y práctico de un Mockup
+    6.2. Herramientas en el mercado para la creación de un Mockup
+ENTREGABLE DEL MÓDULO
+MÓDULO 4. Desarrollo de aplicaciones para Android
+PRESENTACIÓN
+OBJETIVO
+1 PRIMER PROYECTO EN ANDROID
+    1.1 Manifest.xml
+    1.2 Estructura de un proyecto
+    1.3 Ciclo de vida de una aplicación
+    1.4 Elementos de una aplicación
+2 ACTIVIDADES
+    2.1 Invocación de componentes (Intent)
+    2.2 Paso de parámetros (Bundle)
+    2.3 Manejo de mensajes
+3 DISEÑO DE INTERFACES GRÁFICAS
+    3.1 Esquemas de distribución de componentes
+    3.2 Controles básicos
+    3.3 Controles de selección
+    3.4 Controles de navegación
+4 PERSONALIZACIÓN DE INTERFACES
+    4.1 Imágenes
+    4.2 Fuentes
+    4.3 Colores
+    4.4 Modo obscuro
+5 FRAGMENTS
+    5.1 Ciclo de vida
+    5.2 Integración en una actividad
+    5.3 Slide menu
+6 ALMACENAMIENTO DE DATOS EN EL DISPOSITIVO
+    6.1 SharedPreferences
+    6.2 Manejo de archivos
+    6.3 SQLite
+    6.2.5 Insertar, actualizar y eliminar registros
+    6.2.6 Recuperar información desde la base de datos
+7 INTRODUCCIÓN A JetPack
+    6.4 MVVM
+    6.5 Fragments
+    6.6 ViewModel
+    6.7 LiveData
+    6.8 Navigation component
+ENTREGABLE DEL MÓDULO
+MÓDULO 5. Desarrollo móvil para iOS
+PRESENTACIÓN
+OBJETIVO
+1 HOLA iOS
+    1.1 Estructura de un proyecto en Xcode
+    1.2 Mi primera App utilizando StoryBoards
+    1.3 MVC para el desarrollo en iOS
+    1.4 Diferencias entre UIKit y SwiftUI
+    1.5 Patrón de diseño MVVM
+    1.6 Compatibilidad con versiones previas de iOS
+2 IMPLEMENTANDO LA NAVEGACIÓN EN UNA APP
+    2.1. Modal Views
+    2.2. Tabbed Applications
+    2.3. Master-Detail Applications
+    2.4. SplitView Control
+3 DESARROLLO DE INTERFACES
+    3.1. Creando Interfaces de usuario universales
+    3.2. Objetos más comunes: Etiquetas, Botones, Switches, Cuadros de texto e Imágenes
+    3.3. Programación de eventos
+    3.4. Retroalimentación al usuario
+4 PERSONALIZACIÓN DEL APP
+    4.1. Uso de fuentes del sistema
+    4.2. Incluyendo Fuentes propias
+    4.3. Accesibilidad en el tamaño de las fuentes
+    4.4. Colores personalizados
+    4.5. Usar Assets catalog para soportar Modo Obscuro
+    4.6. Icono y LaunchScreen
+    4.7. Internacionalización
+5 INTERFACES COMPLEJAS
+    5.1. Stackviews 
+    5.2. Listas
+    5.3. Tablas
+6. PERSISTENCIA DE LA INFORMACIÓN
+    6.1. UserDefaults
+    6.2. Entendiendo el sandbox de una App 
+    6.3. FileManager
+    6.3.1. Operaciones permitidas con archivos
+    6.4. Trabajar con fuentes de datos (plist, JSON, XML)
+MANEJO DE BASES DE DATOS SQLITE
+    7.1. Comprendiendo el FrameWork CoreData 
+    7.2. El objeto modelo
+    7.3. NSFetchRequest
+    7.4. Relaciones entre entidades
+ENTREGABLE DEL MÓDULO
+Módulo 6. Desarrollo avanzado de aplicaciones para Android
+PRESENTACIÓN
+OBJETIVO
+1 INTRODUCCIÓN A MATERIAL DESIGN 1.1. CollapsingToolbarLayout
+    1.2. NestedScrollView
+    1.3. NavigationView
+    1.4. ConstraintLayout
+2 INTEGRACIÓN DE ELEMENTOS MULTIMEDIA
+    2.1. Reproducción de audio
+    2.2. Reproducción de video
+    2.3. Integración con la cámara
+3 MANEJO DE DATOS EN LÍNEA
+    3.1. Servicios Web
+    3.2. Consumo de datos en línea
+    3.3. Formatos y procesamiento de datos
+    3.4. Consumo de datos desde una aplicación
+4 PROGRAMACIÓN CON REDES SOCIALES
+    4.1. Panorama general de desarrollo
+    4.2. APIs para el desarrollo con redes sociales
+    4.3. Integración de social en una aplicación
+5 PROCESOS EN BACKGROUND
+    5.1. Concurrencia de procesos
+    5.2. Programación multi-hilos
+    5.3. Capacidades de multiprocesamiento en dispositivos móviles
+    5.4. Integración de multiprocesamiento en una aplicación
+6 PROGRAMACIÓN CON SENSORES
+    6.1. Localización geográfica por GPS
+    6.2. Detección de movimiento y orientación del dispositivo (acelerómetro)
+    6.3. Uso del hardware bluetooth
+7 SEGURIDAD EN APLICACIONES MÓVILES 7.1. Autenticación
+    7.1.1 Autenticación simple
+    7.1.2 Autenticación simple mediante API
+    7.1.3 Autenticación doble
+    7.1.4 Manejo de sesiones y tokens
+    7.2. Cifrado de la información
+ENTREGABLE DEL MÓDULO
+MÓDULO 7. Desarrollo móvil para iOS avanzado
+PRESENTACIÓN
+OBJETIVO
+1 TRABAJANDO CON DATOS REMOTOS
+    1.1 Detectar conexión de datos
+    1.2 Detectar el tipo de conexión
+    1.3 UIWebview para mostrar contenido HTML
+    1.4 Abrir el navegador Safari desde una aplicación
+    1.5 Métodos de la clase NSURLConnection
+    1.6 Connections (POST y GET)
+    1.7 Consumir WebServices
+2 INTEGRACIÓN DE ELEMENTOS MULTIMEDIA
+    2.1 Usar imágenes de la librería
+    2.2 Obtener imágenes desde la cámara
+    2.3 Reproducir archivos de audio
+    2.4 Reproducir videos locales
+    2.5 Reproducir videos por streaming
+    2.6 Descargar imágenes de Internet
+    2.7 Descarga asíncrona de contenidos
+3. COMUNICAR UNA APP CON OTRAS APLICACIONES
+    3.1 URLSchemas
+    3.2 Utilizar el App de correo predeterminada
+    3.3 Compartir contenido 
+4. PROGRAMACIÓN CON SENSORES
+    4.1 Detectar movimiento (inclinación y rotación)
+    4.2 Detectar fuerza (aceleración)
+    4.3 Métodos para recuperar la Ubicación geográfica desde el dispositivo.
+    4.4 Integración de la API de Mapas en un proyecto
+    4.5 Uso de coordenadas geográficas para colocar anotaciones en el mapa
+    4.6 Uso de la conexión Bluetooth
+    4.7 Conectar el teléfono con otro dispositivo iOS
+5 SEGURIDAD EN APLICACIONES MÓVILES
+    5.1 Autenticación
+    5.1.1 Métodos de autenticación
+    5.1.2 Autenticación simple
+    5.1.3 Autenticación simple mediante API 5.1.4 Autenticación doble
+    5.2 Manejo de sesiones y tokens
+    5.3 Cifrado de la información
+    5.4 Detección de “jailbreaking”
+ENTREGABLE DEL MÓDULO
