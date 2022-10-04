@@ -1,8 +1,10 @@
 # [go back to Overview](https://github.com/c4arl0s)
 
-# [Advanced-iOS-and-Android-Development-Diploma-Course - Content](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#go-back-to-overview)
+# [Advanced iOS and Android Development Diploma Course - Content](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#go-back-to-overview)
 
-# [x] [MÓDULO 1. MARCO DE TRABAJO PARA EL DESARROLLO MÓVIL](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#1-MÓDULO-1-Marco-de-trabajo-para-el-desarrollo-móvil)
+<details><summary>Modulo 1. Marco de trabajo para el Desarrollo Mòvil</summary>
+<p>
+
 - [x] [Presentación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#2-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#3-OBJETIVO)
 - [x] [1 INTRODUCCIÓN](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#4-1-INTRODUCCIÓN)
@@ -59,29 +61,39 @@
 - [x] [6.2.4 Proyecto OWASP](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#54-624-Proyecto-OWASP)
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#55-ENTREGABLE-DEL-MÓDULO)
 
-# [ ] [MÓDULO 2. Metodologías ágiles para el desarrollo móvil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#56-MÓDULO-2-Metodologías-ágiles-para-el-desarrollo-móvil)
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#57-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#58-OBJETIVO)
-- [ ] [TEMARIO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#59-TEMARIO)
-- [ ] [1 INTRODUCCIÓN](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#60-1-INTRODUCCIÓN)
-- [ ] [1.1 Manifiesto ágil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#61-11-Manifiesto-ágil)
-- [ ] [1.2 Principios y valores del manifiesto ágil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#62-12-Principios-y-valores-del-manifiesto-ágil)
-- [ ] [2 PRINCIPALES METODOLOGÍAS ÁGILES PARA EL DESARROLLO DE SOFTWARE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#63-2-PRINCIPALES-METODOLOGÍAS-ÁGILES-PARA-EL-DESARROLLO-DE-SOFTWARE)
-- [ ] [2.1 Agile](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#64-21-Agile)
-- [ ] [2.2 Lean](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#65-22-Lean)
-- [ ] [2.3 Kanban](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#66-23-Kanban)
-- [ ] [2.4 Scrum](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#67-24-Scrum)
-- [ ] [2.5 XP](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#68-25-XP)
-- [ ] [3 GESTIÓN DEL TRABAJO CON TABLEROS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#69-3-GESTIÓN-DEL-TRABAJO-CON-TABLEROS)
-- [ ] [3.1 Principios](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#70-31-Principios)
-- [ ] [3.2 Prácticas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#71-32-Prácticas)
-- [ ] [3.3 Ley de Little](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#72-33-Ley-de-Little)
-- [ ] [4 ARTEFACTOS SCRUM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#73-4-ARTEFACTOS-SCRUM)
-- [ ] [4.1 Product Backlog](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#74-41-Product-Backlog)
-- [ ] [4.2 Sprint Backlog](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#75-42-Sprint-Backlog)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#76-ENTREGABLE-DEL-MÓDULO)
+</p>
+</details>
 
-# [ ] [MÓDULO 3. UX/UI para aplicaciones móviles](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#77-MÓDULO-3-UXUI-para-aplicaciones-móviles)
+<details><summary>Modulo 2. Metodologías ágiles para el desarrollo móvil</summary>
+<p>
+
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#57-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#58-OBJETIVO)
+- [x] [TEMARIO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#59-TEMARIO)
+- [x] [1 INTRODUCCIÓN](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#60-1-INTRODUCCIÓN)
+- [x] [1.1 Manifiesto ágil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#61-11-Manifiesto-ágil)
+- [x] [1.2 Principios y valores del manifiesto ágil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#62-12-Principios-y-valores-del-manifiesto-ágil)
+- [x] [2 PRINCIPALES METODOLOGÍAS ÁGILES PARA EL DESARROLLO DE SOFTWARE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#63-2-PRINCIPALES-METODOLOGÍAS-ÁGILES-PARA-EL-DESARROLLO-DE-SOFTWARE)
+- [x] [2.1 Agile](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#64-21-Agile)
+- [x] [2.2 Lean](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#65-22-Lean)
+- [x] [2.3 Kanban](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#66-23-Kanban)
+- [x] [2.4 Scrum](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#67-24-Scrum)
+- [x] [2.5 XP](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#68-25-XP)
+- [x] [3 GESTIÓN DEL TRABAJO CON TABLEROS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#69-3-GESTIÓN-DEL-TRABAJO-CON-TABLEROS)
+- [x] [3.1 Principios](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#70-31-Principios)
+- [x] [3.2 Prácticas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#71-32-Prácticas)
+- [x] [3.3 Ley de Little](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#72-33-Ley-de-Little)
+- [x] [4 ARTEFACTOS SCRUM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#73-4-ARTEFACTOS-SCRUM)
+- [x] [4.1 Product Backlog](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#74-41-Product-Backlog)
+- [x] [4.2 Sprint Backlog](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#75-42-Sprint-Backlog)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#76-ENTREGABLE-DEL-MÓDULO)
+
+</p>
+</details>
+
+<details><summary>Modulo 3. UX/UI para aplicaciones moviles</summary>
+<p>
+
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#78-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#79-OBJETIVO)
 - [ ] [1. INTRODUCCIÓN AL USER EXPERIENCE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#80-1-INTRODUCCIÓN-AL-USER-EXPERIENCE)
@@ -106,7 +118,12 @@
 - [ ] [6.2. Herramientas en el mercado para la creación de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#99-62-Herramientas-en-el-mercado-para-la-creación-de-un-Mockup)
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#100-ENTREGABLE-DEL-MÓDULO)
 
-# [ ] [MÓDULO 4. Desarrollo de aplicaciones para Android](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#101-MÓDULO-4-Desarrollo-de-aplicaciones-para-Android)
+</p>
+</details>
+
+<details><summary>Modulo 4. Desarrollo de aplicaciones para Android</summary>
+<p>
+
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
 - [ ] [1 PRIMER PROYECTO EN ANDROID](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#104-1-PRIMER-PROYECTO-EN-ANDROID)
@@ -146,7 +163,12 @@
 - [ ] [6.8 Navigation component](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#138-68-Navigation-component)
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#139-ENTREGABLE-DEL-MÓDULO)
 
-# [ ] [MÓDULO 5. Desarrollo móvil para iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#140-MÓDULO-5-Desarrollo-móvil-para-iOS)
+</p>
+</details>
+
+<details><summary>Modulo 5. Desarrollo movil para iOS</summary>
+<p>
+
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#141-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#142-OBJETIVO)
 - [ ] [1 HOLA iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#143-1-HOLA-iOS)
@@ -191,7 +213,12 @@
 - [ ] [7.4. Relaciones entre entidades](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#182-74-Relaciones-entre-entidades)
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#183-ENTREGABLE-DEL-MÓDULO)
 
-# [ ] [MÓDULO 6. Desarrollo avanzado de aplicaciones para Android](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#184-Módulo-6-Desarrollo-avanzado-de-aplicaciones-para-Android)
+</p>
+</details>
+
+<details><summary>Modulo 6. Desarrollo avanzado de aplicaciones para Android</summary>
+<p>
+
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#185-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#186-OBJETIVO)
 - [ ] [1 INTRODUCCIÓN A MATERIAL DESIGN]()
@@ -217,7 +244,6 @@
 - [ ] [5.2. Programación multi-hilos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#206-52-Programación-multi-hilos)
 - [ ] [5.3. Capacidades de multiprocesamiento en dispositivos móviles](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#207-53-Capacidades-de-multiprocesamiento-en-dispositivos-móviles)
 - [ ] [5.4. Integración de multiprocesamiento en una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#208-54-Integración-de-multiprocesamiento-en-una-aplicación)
-- 
 - [ ] [6 PROGRAMACIÓN CON SENSORES](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#209-6-PROGRAMACIÓN-CON-SENSORES)
 - [ ] [6.1. Localización geográfica por GPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#210-61-Localización-geográfica-por-GPS)
 - [ ] [6.2. Detección de movimiento y orientación del dispositivo (acelerómetro)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#211-62-Detección-de-movimiento-y-orientación-del-dispositivo-acelerómetro)
@@ -231,7 +257,12 @@
 - [ ] [7.2. Cifrado de la información](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#218-72-Cifrado-de-la-información)
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#219-ENTREGABLE-DEL-MÓDULO)
 
-# [ ] [MÓDULO 7. Desarrollo móvil para iOS avanzado](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#220-MÓDULO-7-Desarrollo-móvil-para-iOS-avanzado)
+</p>
+</details>
+
+<details><summary>Modulo 7. Desarrollo movil para iOS avanzado</summary>
+<p>
+ 
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#221-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#222-OBJETIVO)
 - [ ] [1 TRABAJANDO CON DATOS REMOTOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#223-1-TRABAJANDO-CON-DATOS-REMOTOS)
@@ -273,3 +304,6 @@
 - [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#259-ENTREGABLE-DEL-MÓDULO)
 
 <img width="743" alt="Screen Shot 2022-09-10 at 12 33 50 p m" src="https://user-images.githubusercontent.com/24994818/189499166-feecae61-9b6b-4820-b597-2d7a389f6524.png">
+
+</p>
+</details>
