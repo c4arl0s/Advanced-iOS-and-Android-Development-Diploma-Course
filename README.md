@@ -2,7 +2,7 @@
 
 # [Advanced iOS and Android Development Diploma Course - Content](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#go-back-to-overview)
 
-<details><summary>Modulo 1. Marco de trabajo para el Desarrollo Mòvil</summary>
+<details><summary>Modulo 1. Marco de trabajo para el Desarrollo Mòvil. [Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.]</summary> 
 <p>
 
 - [x] [Presentación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#2-PRESENTACIÓN)
@@ -59,12 +59,12 @@
 - [x] [6.2.2 ISO 27000](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#52-622-ISO-27000)
 - [x] [6.2.3 Cobit, Itil, ISM3](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#53-623-Cobit-Itil-ISM3)
 - [x] [6.2.4 Proyecto OWASP](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#54-624-Proyecto-OWASP)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#55-ENTREGABLE-DEL-MÓDULO)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#55-ENTREGABLE-DEL-MÓDULO)
 
 </p>
 </details>
 
-<details><summary>Modulo 2. Metodologías ágiles para el desarrollo móvil</summary>
+<details><summary>Modulo 2. Metodologías ágiles para el desarrollo móvil. [Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.]</summary> 
 <p>
 
 - [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#57-PRESENTACIÓN)
@@ -91,32 +91,32 @@
 </p>
 </details>
 
-<details><summary>Modulo 3. UX/UI para aplicaciones moviles</summary>
+<details><summary>Modulo 3. UX/UI para aplicaciones moviles. [Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.]</summary> 
 <p>
 
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#78-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#79-OBJETIVO)
-- [ ] [1. INTRODUCCIÓN AL USER EXPERIENCE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#80-1-INTRODUCCIÓN-AL-USER-EXPERIENCE)
-- [ ] [1.1. Definición de UX](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#81-11-Definición-de-UX)
-- [ ] [1.2. Definición de UI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#82-12-Definición-de-UI)
-- [ ] [2. DIFERENCIA ENTRE UX Y UI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#83-2-DIFERENCIA-ENTRE-UX-Y-UI)
-- [ ] [2.1. Comparativo de los conceptos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#84-21-Comparativo-de-los-conceptos)
-- [ ] [2.2. Ventajas del UX en un proyecto de desarrollo móvil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#85-22-Ventajas-del-UX-en-un-proyecto-de-desarrollo-móvil)
-- [ ] [3. PROCESOS BÁSICOS PARA FUNDAMENTAR UNA APLICACIÓN MÓVIL CON EL UX.](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#86-3-PROCESOS-BÁSICOS-PARA-FUNDAMENTAR-UNA-APLICACIÓN-MÓVIL-CON-EL-UX)
-- [ ] [3.1. Definición de los requerimientos mínimos para evaluar un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#87-31-Definición-de-los-requerimientos-mínimos-para-evaluar-un-proyecto)
-- [ ] [3.2. Evaluación de un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#88-32-Evaluación-de-un-proyecto)
-- [ ] [4. ¿QUÉ ES UN WIREFRAME, MOCKUP Y PROTOTIPO?](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#89-4-¿QUÉ-ES-UN-WIREFRAME-MOCKUP-Y-PROTOTIPO)
-- [ ] [4.1. Fases de producción](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#90-41-Fases-de-producción)
-- [ ] [4.2. Definición de wireframe](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#91-42-Definición-de-wireframe)
-- [ ] [4.3. Definición de mockup y prototipo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#92-43-Definición-de-mockup-y-prototipo)
-- [ ] [5. DESARROLLO DE WIFREFRAME](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#93-5-DESARROLLO-DE-WIFREFRAME)
-- [ ] [5.1. Producción de un Wireframe](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#94-51-Producción-de-un-Wireframe)
-- [ ] [5.2. Seguimiento a partir de la identificación de los requerimimentos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#95-52-Seguimiento-a-partir-de-la-identificación-de-los-requerimimentos)
-- [ ] [5.3. Mejores prácticas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#96-53-Mejores-prácticas)
-- [ ] [6. DESARROLLO DE MOCKUPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#97-6-DESARROLLO-DE-MOCKUPS)
-- [ ] [6.1. Concepto teórico y práctico de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#98-61-Concepto-teórico-y-práctico-de-un-Mockup)
-- [ ] [6.2. Herramientas en el mercado para la creación de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#99-62-Herramientas-en-el-mercado-para-la-creación-de-un-Mockup)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#100-ENTREGABLE-DEL-MÓDULO)
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#78-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#79-OBJETIVO)
+- [x] [1. INTRODUCCIÓN AL USER EXPERIENCE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#80-1-INTRODUCCIÓN-AL-USER-EXPERIENCE)
+- [x] [1.1. Definición de UX](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#81-11-Definición-de-UX)
+- [x] [1.2. Definición de UI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#82-12-Definición-de-UI)
+- [x] [2. DIFERENCIA ENTRE UX Y UI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#83-2-DIFERENCIA-ENTRE-UX-Y-UI)
+- [x] [2.1. Comparativo de los conceptos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#84-21-Comparativo-de-los-conceptos)
+- [x] [2.2. Ventajas del UX en un proyecto de desarrollo móvil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#85-22-Ventajas-del-UX-en-un-proyecto-de-desarrollo-móvil)
+- [x] [3. PROCESOS BÁSICOS PARA FUNDAMENTAR UNA APLICACIÓN MÓVIL CON EL UX.](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#86-3-PROCESOS-BÁSICOS-PARA-FUNDAMENTAR-UNA-APLICACIÓN-MÓVIL-CON-EL-UX)
+- [x] [3.1. Definición de los requerimientos mínimos para evaluar un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#87-31-Definición-de-los-requerimientos-mínimos-para-evaluar-un-proyecto)
+- [x] [3.2. Evaluación de un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#88-32-Evaluación-de-un-proyecto)
+- [x] [4. ¿QUÉ ES UN WIREFRAME, MOCKUP Y PROTOTIPO?](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#89-4-¿QUÉ-ES-UN-WIREFRAME-MOCKUP-Y-PROTOTIPO)
+- [x] [4.1. Fases de producción](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#90-41-Fases-de-producción)
+- [x] [4.2. Definición de wireframe](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#91-42-Definición-de-wireframe)
+- [x] [4.3. Definición de mockup y prototipo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#92-43-Definición-de-mockup-y-prototipo)
+- [x] [5. DESARROLLO DE WIFREFRAME](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#93-5-DESARROLLO-DE-WIFREFRAME)
+- [x] [5.1. Producción de un Wireframe](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#94-51-Producción-de-un-Wireframe)
+- [x] [5.2. Seguimiento a partir de la identificación de los requerimimentos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#95-52-Seguimiento-a-partir-de-la-identificación-de-los-requerimimentos)
+- [x] [5.3. Mejores prácticas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#96-53-Mejores-prácticas)
+- [x] [6. DESARROLLO DE MOCKUPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#97-6-DESARROLLO-DE-MOCKUPS)
+- [x] [6.1. Concepto teórico y práctico de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#98-61-Concepto-teórico-y-práctico-de-un-Mockup)
+- [x] [6.2. Herramientas en el mercado para la creación de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#99-62-Herramientas-en-el-mercado-para-la-creación-de-un-Mockup)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#100-ENTREGABLE-DEL-MÓDULO)
 
 </p>
 </details>
