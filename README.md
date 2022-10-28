@@ -221,7 +221,7 @@
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
 
-<details>1. First Android Project<summary></summary>
+<details><summary>1. First Android Project</summary>
 <p>
 
 - [ ] [1.1 Manifest.xml](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#105-11-Manifestxml)
