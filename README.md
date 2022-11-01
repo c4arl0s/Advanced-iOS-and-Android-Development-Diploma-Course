@@ -2,8 +2,10 @@
 
 # [Advanced iOS and Android Development Diploma Course - Content](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#go-back-to-overview)
 
-<details><summary>Module I. Framework for Mobile Development. [Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.]</summary> 
+<details><summary>Module I. Framework for Mobile Development.</summary> 
 <p>
+
+Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.
 
 - [x] [Presentación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#2-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#3-OBJETIVO)
@@ -99,8 +101,10 @@
 </p>
 </details>
 
-<details><summary>Module II. Agile methodologies for mobile development. [Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.]</summary> 
+<details><summary>Module II. Agile methodologies for mobile development.</summary> 
 <p>
+
+Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.
 
 - [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#57-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#58-OBJETIVO)
@@ -149,8 +153,10 @@
 </p>
 </details>
 
-<details><summary>Module III. UX/UI for mobile applications. [Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.]</summary> 
+<details><summary>Module III. UX/UI for mobile applications.</summary> 
 <p>
+
+Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 - [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#78-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#79-OBJETIVO)
@@ -215,8 +221,10 @@
 </p>
 </details>
 
-<details><summary>Module IV. Android Application Development. [Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.]</summary>
+<details><summary>Module IV. Android Application Development.</summary>
 <p>
+
+Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
@@ -302,8 +310,10 @@
 </p>
 </details>
 
-<details><summary>Module V. iOS Application Development. [Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.]</summary>
+<details><summary>Module V. iOS Application Development.</summary>
 <p>
+
+Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#141-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#142-OBJETIVO)
@@ -388,8 +398,10 @@
 </p>
 </details>
 
-<details><summary>Module VI. Advanced Android Application Development. [Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.]</summary>
+<details><summary>Module VI. Advanced Android Application Development.</summary>
 <p>
+
+Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#185-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#186-OBJETIVO)
@@ -474,8 +486,10 @@
 </p>
 </details>
 
-<details><summary>Module VII. Advanced iOS Application Development. [Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.]</summary>
+<details><summary>Module VII. Advanced iOS Application Development.</summary>
 <p>
+
+Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
  
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#221-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#222-OBJETIVO)
