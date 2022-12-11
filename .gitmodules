@@ -1,0 +1,15 @@
+[submodule "1Mobile-development-framework"]
+	path = 1Mobile-development-framework
+	url = git@github.com:c4arl0s/1Mobile-development-framework.git
+[submodule "2Agile-methodologies-for-mobile-development"]
+	path = 2Agile-methodologies-for-mobile-development
+	url = git@github.com:c4arl0s/2Agile-methodologies-for-mobile-development.git
+[submodule "3UX-UI-For-Mobile-Applications"]
+	path = 3UX-UI-For-Mobile-Applications
+	url = git@github.com:c4arl0s/3UX-UI-For-Mobile-Applications.git
+[submodule "4AndroidApplicationDevelopment"]
+	path = 4AndroidApplicationDevelopment
+	url = git@github.com:c4arl0s/4AndroidApplicationDevelopment.git
+[submodule "5iOSApplicationDevelopment"]
+	path = 5iOSApplicationDevelopment
+	url = git@github.com:c4arl0s/5iOSApplicationDevelopment.git
