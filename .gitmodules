@@ -13,3 +13,9 @@
 [submodule "5iOSApplicationDevelopment"]
 	path = 5iOSApplicationDevelopment
 	url = git@github.com:c4arl0s/5iOSApplicationDevelopment.git
+[submodule "6AdvancedAndroidApplicationDevelopment"]
+	path = 6AdvancedAndroidApplicationDevelopment
+	url = https://github.com/c4arl0s/6AdvancedAndroidApplicationDevelopment.git
+[submodule "7AdvancediOSApplicationDevelopment"]
+	path = 7AdvancediOSApplicationDevelopment
+	url = https://github.com/c4arl0s/7AdvancediOSApplicationDevelopment.git
