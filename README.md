@@ -8,21 +8,21 @@ Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.
 
 - [x] [Presentación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#2-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#3-OBJETIVO)
-# 1. Introduction
+### 1. Introduction
 
 
 - [x] [1.1 Antecedentes del desarrollo móvil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#5-11-Antecedentes-del-desarrollo-móvil)
 - [x] [1.2 Capacidades a considerar en los móviles actuales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#6-12-Capacidades-a-considerar-en-los-móviles-actuales)
 - [x] [1.3 Panorama del desarrollo de aplicaciones móviles](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#7-13-Panorama-del-desarrollo-de-aplicaciones-móviles)
 
-# 2. Technologies For Mobile Development
+### 2. Technologies For Mobile Development
 
 - [x] [2.1 Entornos de desarrollo nativos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#9-21-Entornos-de-desarrollo-nativos)
 - [x] [2.2 Entornos de desarrollo híbridos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#10-22-Entornos-de-desarrollo-híbridos)
 - [x] [2.3 Lenguajes de programación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#11-23-Lenguajes-de-programación)
 - [x] [2.4 Equipo de desarrollo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#12-24-Equipo-de-desarrollo)
 
-# 3. Mobile Apps For Android
+### 3. Mobile Apps For Android
 
 
 - [x] [3.1 Antecedentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#14-31-Antecedentes)
@@ -35,7 +35,7 @@ Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.
 
 
 
-# 4. Mobile Apps for iOS
+### 4. Mobile Apps for iOS
 
 
 - [x] [4.1 Antecedentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#21-41-Antecedentes)
@@ -49,7 +49,7 @@ Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.
 
 
 
-# 5. Web Services for Mobile Development
+### 5. Web Services for Mobile Development
 
 
 - [x] [5.1 Introducción a los servicios Web](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#28-5-SERVICIOS-WEB-EN-EL-DESARROLLO-MÓVIL-51-Introducción-a-los-servicios-Web)
@@ -72,7 +72,7 @@ Period: Aug/26/2022 - Sep/10/2022, Duration: 30 hrs.
 
 
 
-# 6. Information Security in Mobile Applications
+### 6. Information Security in Mobile Applications
 
 
 - [x] [6.1 Introducción](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#45-61-Introducción)
@@ -101,7 +101,7 @@ Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.
 - [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#57-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#58-OBJETIVO)
 
-# 1. Introduction 
+### 1. Introduction 
 
 
 - [x] [1.1 Manifiesto ágil](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#61-11-Manifiesto-ágil)
@@ -110,7 +110,7 @@ Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.
 
 
 
-# 2. Main Agile Methodologies for Software Development 
+### 2. Main Agile Methodologies for Software Development 
 
 
 - [x] [2.1 Agile](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#64-21-Agile)
@@ -122,7 +122,7 @@ Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.
 
 
 
-# 3. Work Management with Boards 
+### 3. Work Management with Boards 
 
 
 - [x] [3.1 Principios](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#70-31-Principios)
@@ -132,7 +132,7 @@ Period: Sep/23/2022 - Oct/01/2022, Duration: 20 hrs.
 
 
 
-# 4. SCRUM Artifacts 
+### 4. SCRUM Artifacts 
 
 
 - [x] [4.1 Product Backlog](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#74-41-Product-Backlog)
@@ -153,7 +153,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 - [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#78-PRESENTACIÓN)
 - [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#79-OBJETIVO)
 
-# 1. Introduction to User Experience 
+### 1. Introduction to User Experience 
 
 
 - [x] [1.1. Definición de UX](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#81-11-Definición-de-UX)
@@ -162,7 +162,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 
 
-# 2. Difference Between UX and UI 
+### 2. Difference Between UX and UI 
 
 
 - [x] [2.1. Comparativo de los conceptos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#84-21-Comparativo-de-los-conceptos)
@@ -171,7 +171,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 
 
-# 3. Basic Processes to Base a Mobil Application with the UX. 
+### 3. Basic Processes to Base a Mobil Application with the UX. 
 
 
 - [x] [3.1. Definición de los requerimientos mínimos para evaluar un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#87-31-Definición-de-los-requerimientos-mínimos-para-evaluar-un-proyecto)
@@ -180,7 +180,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 
 
-# 4. What is a Wireframe, Mockup and Prototype? 
+### 4. What is a Wireframe, Mockup and Prototype? 
 
 
 - [x] [4.1. Fases de producción](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#90-41-Fases-de-producción)
@@ -190,7 +190,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 
 
-# 5. Wireframe Development 
+### 5. Wireframe Development 
 
 
 - [x] [5.1. Producción de un Wireframe](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#94-51-Producción-de-un-Wireframe)
@@ -200,7 +200,7 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 
 
-# 6. Mockups Development 
+### 6. Mockups Development 
 
 
 - [x] [6.1. Concepto teórico y práctico de un Mockup](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#98-61-Concepto-teórico-y-práctico-de-un-Mockup)
@@ -221,7 +221,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
 
-# 1. First Android Project
+### 1. First Android Project
 
 
 - [ ] [1.1 Manifest.xml](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#105-11-Manifestxml)
@@ -232,7 +232,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 2. Activities
+### 2. Activities
 
 
 - [ ] [2.1 Invocación de componentes (Intent)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#110-21-Invocación-de-componentes-Intent)
@@ -242,7 +242,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 3. Design of Graphical Interfaces
+### 3. Design of Graphical Interfaces
 
 
 - [ ] [3.1 Esquemas de distribución de componentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#114-31-Esquemas-de-distribución-de-componentes)
@@ -253,7 +253,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 4. Interface Customization
+### 4. Interface Customization
 
 
 - [ ] [4.1 Imágenes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#119-41-Imágenes)
@@ -264,7 +264,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 5. Fragments
+### 5. Fragments
 
 
 - [ ] [5.1 Ciclo de vida](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#124-51-Ciclo-de-vida)
@@ -274,7 +274,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 6. Data Storage on the Device
+### 6. Data Storage on the Device
 
 
 - [ ] [6.1 SharedPreferences](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#128-61-SharedPreferences)
@@ -286,7 +286,7 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 
 
-# 7. Introduction to JetPack
+### 7. Introduction to JetPack
 
 
 - [ ] [6.4 MVVM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#134-64-MVVM)
@@ -310,7 +310,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#141-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#142-OBJETIVO)
 
-# Hello iOS
+### Hello iOS
 
 
 - [ ] [1.1 Estructura de un proyecto en Xcode](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#144-11-Estructura-de-un-proyecto-en-Xcode)
@@ -323,7 +323,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 
 
-# 2. Implementing Navigation in an App
+### 2. Implementing Navigation in an App
 
 
 - [ ] [2.1. Modal Views](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#151-21-Modal-Views)
@@ -334,7 +334,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 
 
-# 3. Interface Development
+### 3. Interface Development
 
 
 - [ ] [3.1. Creando Interfaces de usuario universales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#156-31-Creando-Interfaces-de-usuario-universales)
@@ -345,7 +345,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 
 
-# 4 App customization
+### 4 App customization
 
 
 - [ ] [4.1. Uso de fuentes del sistema](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#161-41-Uso-de-fuentes-del-sistema)
@@ -359,7 +359,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 
 
-# 5. Complex Interfaces
+### 5. Complex Interfaces
 
 
 - [ ] [5.1. Stackviews](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#169-51-Stackviews)
@@ -369,7 +369,7 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 
 
-# 6. Information Persistence
+### 6. Information Persistence
 
 
 - [ ] [6.1. UserDefaults](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#173-61-UserDefaults)
@@ -398,7 +398,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#185-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#186-OBJETIVO)
 
-# 1. Introduction to Material Design
+### 1. Introduction to Material Design
 
 
 - [ ] [1.1. CollapsingToolbarLayout](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#187-1-INTRODUCCIÓN-A-MATERIAL-DESIGN-11-CollapsingToolbarLayout)
@@ -409,7 +409,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 2. Integration of Multimedia Elements
+### 2. Integration of Multimedia Elements
 
 
 - [ ] [2.1. Reproducción de audio](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#192-21-Reproducción-de-audio)
@@ -419,7 +419,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 3. Online Data Management
+### 3. Online Data Management
 
 
 - [ ] [3.1. Servicios Web](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#196-31-Servicios-Web)
@@ -430,7 +430,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 4. Programming with Social Networks
+### 4. Programming with Social Networks
 
 
 - [ ] [4.1. Panorama general de desarrollo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#201-41-Panorama-general-de-desarrollo)
@@ -440,7 +440,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 5. Process in Background
+### 5. Process in Background
 
 
 - [ ] [5.1. Concurrencia de procesos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#205-51-Concurrencia-de-procesos)
@@ -451,7 +451,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 6. Programming with Sensors
+### 6. Programming with Sensors
 
 
 - [ ] [6.1. Localización geográfica por GPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#210-61-Localización-geográfica-por-GPS)
@@ -461,7 +461,7 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 
 
-# 7. Mobile Application Security
+### 7. Mobile Application Security
 
 
 - [ ] [7.1. Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#213-7-SEGURIDAD-EN-APLICACIONES-MÓVILES-71-Autenticación)
@@ -486,7 +486,7 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 - [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#221-PRESENTACIÓN)
 - [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#222-OBJETIVO)
 
-# 1. Working with Remote Data
+### 1. Working with Remote Data
 
 
 - [ ] [1.1 Detectar conexión de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#224-11-Detectar-conexión-de-datos)
@@ -500,7 +500,7 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 
 
 
-# 2. Integration of Multimedia Elements
+### 2. Integration of Multimedia Elements
 
 
 - [ ] [2.1 Usar imágenes de la librería](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#232-21-Usar-imágenes-de-la-librería)
@@ -514,7 +514,7 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 
 
 
-# 3. Communicate an App with other Apps
+### 3. Communicate an App with other Apps
 
 
 - [ ] [3.1 URLSchemas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#240-31-URLSchemas)
@@ -524,7 +524,7 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 
 
 
-# 4. Communicate an App with other Apps
+### 4. Communicate an App with other Apps
 
 
 - [ ] [4.1 Detectar movimiento (inclinación y rotación)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#244-41-Detectar-movimiento-inclinación-y-rotación)
@@ -538,7 +538,7 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 
 
 
-# 5. Security in Mobile Applications
+### 5. Security in Mobile Applications
 
 
 - [ ] [5.1 Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#252-51-Autenticación)
