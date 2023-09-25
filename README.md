@@ -218,16 +218,16 @@ Period: Oct/07/2022 - Oct/22/2022, Duration: 30 hrs.
 
 Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#102-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#103-OBJETIVO)
 
 ### 1. First Android Project
 
 
-- [ ] [1.1 Manifest.xml](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#105-11-Manifestxml)
-- [ ] [1.2 Estructura de un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#106-12-Estructura-de-un-proyecto)
-- [ ] [1.3 Ciclo de vida de una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#107-13-Ciclo-de-vida-de-una-aplicación)
-- [ ] [1.4 Elementos de una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#108-14-Elementos-de-una-aplicación)
+- [x] [1.1 Manifest.xml](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#105-11-Manifestxml)
+- [x] [1.2 Estructura de un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#106-12-Estructura-de-un-proyecto)
+- [x] [1.3 Ciclo de vida de una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#107-13-Ciclo-de-vida-de-una-aplicación)
+- [x] [1.4 Elementos de una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#108-14-Elementos-de-una-aplicación)
 
 
 
@@ -235,9 +235,9 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 2. Activities
 
 
-- [ ] [2.1 Invocación de componentes (Intent)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#110-21-Invocación-de-componentes-Intent)
-- [ ] [2.2 Paso de parámetros (Bundle)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#111-22-Paso-de-parámetros-Bundle)
-- [ ] [2.3 Manejo de mensajes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#112-23-Manejo-de-mensajes)
+- [x] [2.1 Invocación de componentes (Intent)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#110-21-Invocación-de-componentes-Intent)
+- [x] [2.2 Paso de parámetros (Bundle)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#111-22-Paso-de-parámetros-Bundle)
+- [x] [2.3 Manejo de mensajes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#112-23-Manejo-de-mensajes)
 
 
 
@@ -245,10 +245,10 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 3. Design of Graphical Interfaces
 
 
-- [ ] [3.1 Esquemas de distribución de componentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#114-31-Esquemas-de-distribución-de-componentes)
-- [ ] [3.2 Controles básicos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#115-32-Controles-básicos)
-- [ ] [3.3 Controles de selección](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#116-33-Controles-de-selección)
-- [ ] [3.4 Controles de navegación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#117-34-Controles-de-navegación)
+- [x] [3.1 Esquemas de distribución de componentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#114-31-Esquemas-de-distribución-de-componentes)
+- [x] [3.2 Controles básicos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#115-32-Controles-básicos)
+- [x] [3.3 Controles de selección](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#116-33-Controles-de-selección)
+- [x] [3.4 Controles de navegación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#117-34-Controles-de-navegación)
 
 
 
@@ -256,10 +256,10 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 4. Interface Customization
 
 
-- [ ] [4.1 Imágenes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#119-41-Imágenes)
-- [ ] [4.2 Fuentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#120-42-Fuentes)
-- [ ] [4.3 Colores](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#121-43-Colores)
-- [ ] [4.4 Modo obscuro](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#122-44-Modo-obscuro)
+- [x] [4.1 Imágenes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#119-41-Imágenes)
+- [x] [4.2 Fuentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#120-42-Fuentes)
+- [x] [4.3 Colores](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#121-43-Colores)
+- [x] [4.4 Modo obscuro](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#122-44-Modo-obscuro)
 
 
 
@@ -267,9 +267,9 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 5. Fragments
 
 
-- [ ] [5.1 Ciclo de vida](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#124-51-Ciclo-de-vida)
-- [ ] [5.2 Integración en una actividad](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#125-52-Integración-en-una-actividad)
-- [ ] [5.3 Slide menu](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#126-53-Slide-menu)
+- [x] [5.1 Ciclo de vida](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#124-51-Ciclo-de-vida)
+- [x] [5.2 Integración en una actividad](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#125-52-Integración-en-una-actividad)
+- [x] [5.3 Slide menu](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#126-53-Slide-menu)
 
 
 
@@ -277,11 +277,11 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 6. Data Storage on the Device
 
 
-- [ ] [6.1 SharedPreferences](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#128-61-SharedPreferences)
-- [ ] [6.2 Manejo de archivos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#129-62-Manejo-de-archivos)
-- [ ] [6.2.5 Insertar, actualizar y eliminar registros](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#131-625-Insertar-actualizar-y-eliminar-registros)
-- [ ] [6.2.6 Recuperar información desde la base de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#132-626-Recuperar-información-desde-la-base-de-datos)
-- [ ] [6.3 SQLite](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#130-63-SQLite)
+- [x] [6.1 SharedPreferences](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#128-61-SharedPreferences)
+- [x] [6.2 Manejo de archivos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#129-62-Manejo-de-archivos)
+- [x] [6.2.5 Insertar, actualizar y eliminar registros](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#131-625-Insertar-actualizar-y-eliminar-registros)
+- [x] [6.2.6 Recuperar información desde la base de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#132-626-Recuperar-información-desde-la-base-de-datos)
+- [x] [6.3 SQLite](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#130-63-SQLite)
 
 
 
@@ -289,12 +289,12 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 ### 7. Introduction to JetPack
 
 
-- [ ] [6.4 MVVM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#134-64-MVVM)
-- [ ] [6.5 Fragments](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#135-65-Fragments)
-- [ ] [6.6 ViewModel](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#136-66-ViewModel)
-- [ ] [6.7 LiveData](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#137-67-LiveData)
-- [ ] [6.8 Navigation component](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#138-68-Navigation-component)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#139-ENTREGABLE-DEL-MÓDULO)
+- [x] [6.4 MVVM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#134-64-MVVM)
+- [x] [6.5 Fragments](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#135-65-Fragments)
+- [x] [6.6 ViewModel](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#136-66-ViewModel)
+- [x] [6.7 LiveData](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#137-67-LiveData)
+- [x] [6.8 Navigation component](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#138-68-Navigation-component)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#139-ENTREGABLE-DEL-MÓDULO)
 
 
 
@@ -307,18 +307,18 @@ Period: Oct/28/2022 - Nov/19/2022, Duration: 40 hrs.
 
 Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#141-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#142-OBJETIVO)
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#141-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#142-OBJETIVO)
 
 ### Hello iOS
 
 
-- [ ] [1.1 Estructura de un proyecto en Xcode](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#144-11-Estructura-de-un-proyecto-en-Xcode)
-- [ ] [1.2 Mi primera App utilizando StoryBoards](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#145-12-Mi-primera-App-utilizando-StoryBoards)
-- [ ] [1.3 MVC para el desarrollo en iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#146-13-MVC-para-el-desarrollo-en-iOS)
-- [ ] [1.4 Diferencias entre UIKit y SwiftUI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#147-14-Diferencias-entre-UIKit-y-SwiftUI)
-- [ ] [1.5 Patrón de diseño MVVM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#148-15-Patrón-de-diseño-MVVM)
-- [ ] [1.6 Compatibilidad con versiones previas de iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#149-16-Compatibilidad-con-versiones-previas-de-iOS)
+- [x] [1.1 Estructura de un proyecto en Xcode](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#144-11-Estructura-de-un-proyecto-en-Xcode)
+- [x] [1.2 Mi primera App utilizando StoryBoards](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#145-12-Mi-primera-App-utilizando-StoryBoards)
+- [x] [1.3 MVC para el desarrollo en iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#146-13-MVC-para-el-desarrollo-en-iOS)
+- [x] [1.4 Diferencias entre UIKit y SwiftUI](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#147-14-Diferencias-entre-UIKit-y-SwiftUI)
+- [x] [1.5 Patrón de diseño MVVM](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#148-15-Patrón-de-diseño-MVVM)
+- [x] [1.6 Compatibilidad con versiones previas de iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#149-16-Compatibilidad-con-versiones-previas-de-iOS)
 
 
 
@@ -326,10 +326,10 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 ### 2. Implementing Navigation in an App
 
 
-- [ ] [2.1. Modal Views](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#151-21-Modal-Views)
-- [ ] [2.2. Tabbed Applications](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#152-22-Tabbed-Applications)
-- [ ] [2.3. Master-Detail Applications](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#153-23-Master-Detail-Applications)
-- [ ] [2.4. SplitView Control](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#154-24-SplitView-Control)
+- [x] [2.1. Modal Views](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#151-21-Modal-Views)
+- [x] [2.2. Tabbed Applications](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#152-22-Tabbed-Applications)
+- [x] [2.3. Master-Detail Applications](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#153-23-Master-Detail-Applications)
+- [x] [2.4. SplitView Control](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#154-24-SplitView-Control)
 
 
 
@@ -337,10 +337,10 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 ### 3. Interface Development
 
 
-- [ ] [3.1. Creando Interfaces de usuario universales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#156-31-Creando-Interfaces-de-usuario-universales)
-- [ ] [3.2. Objetos más comunes: Etiquetas, Botones, Switches, Cuadros de texto e Imágenes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#157-32-Objetos-más-comunes-Etiquetas-Botones-Switches-Cuadros-de-texto-e-Imágenes)
-- [ ] [3.3. Programación de eventos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#158-33-Programación-de-eventos)
-- [ ] [3.4. Retroalimentación al usuario](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#159-34-Retroalimentación-al-usuario)
+- [x] [3.1. Creando Interfaces de usuario universales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#156-31-Creando-Interfaces-de-usuario-universales)
+- [x] [3.2. Objetos más comunes: Etiquetas, Botones, Switches, Cuadros de texto e Imágenes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#157-32-Objetos-más-comunes-Etiquetas-Botones-Switches-Cuadros-de-texto-e-Imágenes)
+- [x] [3.3. Programación de eventos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#158-33-Programación-de-eventos)
+- [x] [3.4. Retroalimentación al usuario](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#159-34-Retroalimentación-al-usuario)
 
 
 
@@ -348,13 +348,13 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 ### 4 App customization
 
 
-- [ ] [4.1. Uso de fuentes del sistema](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#161-41-Uso-de-fuentes-del-sistema)
-- [ ] [4.2. Incluyendo Fuentes propias](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#162-42-Incluyendo-Fuentes-propias)
-- [ ] [4.3. Accesibilidad en el tamaño de las fuentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#163-43-Accesibilidad-en-el-tamaño-de-las-fuentes)
-- [ ] [4.4. Colores personalizados](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#164-44-Colores-personalizados)
-- [ ] [4.5. Usar Assets catalog para soportar Modo Obscuro](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#165-45-Usar-Assets-catalog-para-soportar-Modo-Obscuro)
-- [ ] [4.6. Icono y LaunchScreen](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#166-46-Icono-y-LaunchScreen)
-- [ ] [4.7. Internacionalización](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#167-47-Internacionalización)
+- [x] [4.1. Uso de fuentes del sistema](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#161-41-Uso-de-fuentes-del-sistema)
+- [x] [4.2. Incluyendo Fuentes propias](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#162-42-Incluyendo-Fuentes-propias)
+- [x] [4.3. Accesibilidad en el tamaño de las fuentes](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#163-43-Accesibilidad-en-el-tamaño-de-las-fuentes)
+- [x] [4.4. Colores personalizados](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#164-44-Colores-personalizados)
+- [x] [4.5. Usar Assets catalog para soportar Modo Obscuro](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#165-45-Usar-Assets-catalog-para-soportar-Modo-Obscuro)
+- [x] [4.6. Icono y LaunchScreen](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#166-46-Icono-y-LaunchScreen)
+- [x] [4.7. Internacionalización](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#167-47-Internacionalización)
 
 
 
@@ -362,9 +362,9 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 ### 5. Complex Interfaces
 
 
-- [ ] [5.1. Stackviews](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#169-51-Stackviews)
-- [ ] [5.2. Listas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#170-52-Listas)
-- [ ] [5.3. Tablas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#171-53-Tablas)
+- [x] [5.1. Stackviews](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#169-51-Stackviews)
+- [x] [5.2. Listas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#170-52-Listas)
+- [x] [5.3. Tablas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#171-53-Tablas)
 
 
 
@@ -372,17 +372,17 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 ### 6. Information Persistence
 
 
-- [ ] [6.1. UserDefaults](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#173-61-UserDefaults)
-- [ ] [6.2. Entendiendo el sandbox de una App](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#174-62-Entendiendo-el-sandbox-de-una-App)
-- [ ] [6.3. FileManager](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#175-63-FileManager)
-- [ ] [6.3.1. Operaciones permitidas con archivos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#176-631-Operaciones-permitidas-con-archivos)
-- [ ] [6.4. Trabajar con fuentes de datos (plist, JSON, XML)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#177-64-Trabajar-con-fuentes-de-datos-plist-JSON-XML)
-- [ ] [MANEJO DE BASES DE DATOS SQLITE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#178-MANEJO-DE-BASES-DE-DATOS-SQLITE)
-- [ ] [7.1. Comprendiendo el FrameWork CoreData](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#179-71-Comprendiendo-el-FrameWork-CoreData)
-- [ ] [7.2. El objeto modelo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#180-72-El-objeto-modelo)
-- [ ] [7.3. NSFetchRequest](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#181-73-NSFetchRequest)
-- [ ] [7.4. Relaciones entre entidades](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#182-74-Relaciones-entre-entidades)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#183-ENTREGABLE-DEL-MÓDULO)
+- [x] [6.1. UserDefaults](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#173-61-UserDefaults)
+- [x] [6.2. Entendiendo el sandbox de una App](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#174-62-Entendiendo-el-sandbox-de-una-App)
+- [x] [6.3. FileManager](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#175-63-FileManager)
+- [x] [6.3.1. Operaciones permitidas con archivos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#176-631-Operaciones-permitidas-con-archivos)
+- [x] [6.4. Trabajar con fuentes de datos (plist, JSON, XML)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#177-64-Trabajar-con-fuentes-de-datos-plist-JSON-XML)
+- [x] [MANEJO DE BASES DE DATOS SQLITE](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#178-MANEJO-DE-BASES-DE-DATOS-SQLITE)
+- [x] [7.1. Comprendiendo el FrameWork CoreData](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#179-71-Comprendiendo-el-FrameWork-CoreData)
+- [x] [7.2. El objeto modelo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#180-72-El-objeto-modelo)
+- [x] [7.3. NSFetchRequest](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#181-73-NSFetchRequest)
+- [x] [7.4. Relaciones entre entidades](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#182-74-Relaciones-entre-entidades)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#183-ENTREGABLE-DEL-MÓDULO)
 
 
 
@@ -395,16 +395,16 @@ Period: Nov/25/2022 - Dec/17/2022, Duration: 40 hrs.
 
 Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#185-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#186-OBJETIVO)
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#185-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#186-OBJETIVO)
 
 ### 1. Introduction to Material Design
 
 
-- [ ] [1.1. CollapsingToolbarLayout](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#187-1-INTRODUCCIÓN-A-MATERIAL-DESIGN-11-CollapsingToolbarLayout)
-- [ ] [1.2. NestedScrollView](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#188-12-NestedScrollView)
-- [ ] [1.3. NavigationView](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#189-13-NavigationView)
-- [ ] [1.4. ConstraintLayout](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#190-14-ConstraintLayout)
+- [x] [1.1. CollapsingToolbarLayout](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#187-1-INTRODUCCIÓN-A-MATERIAL-DESIGN-11-CollapsingToolbarLayout)
+- [x] [1.2. NestedScrollView](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#188-12-NestedScrollView)
+- [x] [1.3. NavigationView](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#189-13-NavigationView)
+- [x] [1.4. ConstraintLayout](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#190-14-ConstraintLayout)
 
 
 
@@ -412,9 +412,9 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 2. Integration of Multimedia Elements
 
 
-- [ ] [2.1. Reproducción de audio](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#192-21-Reproducción-de-audio)
-- [ ] [2.2. Reproducción de video](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#193-22-Reproducción-de-video)
-- [ ] [2.3. Integración con la cámara](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#194-23-Integración-con-la-cámara)
+- [x] [2.1. Reproducción de audio](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#192-21-Reproducción-de-audio)
+- [x] [2.2. Reproducción de video](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#193-22-Reproducción-de-video)
+- [x] [2.3. Integración con la cámara](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#194-23-Integración-con-la-cámara)
 
 
 
@@ -422,10 +422,10 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 3. Online Data Management
 
 
-- [ ] [3.1. Servicios Web](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#196-31-Servicios-Web)
-- [ ] [3.2. Consumo de datos en línea](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#197-32-Consumo-de-datos-en-línea)
-- [ ] [3.3. Formatos y procesamiento de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#198-33-Formatos-y-procesamiento-de-datos)
-- [ ] [3.4. Consumo de datos desde una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#199-34-Consumo-de-datos-desde-una-aplicación)
+- [x] [3.1. Servicios Web](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#196-31-Servicios-Web)
+- [x] [3.2. Consumo de datos en línea](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#197-32-Consumo-de-datos-en-línea)
+- [x] [3.3. Formatos y procesamiento de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#198-33-Formatos-y-procesamiento-de-datos)
+- [x] [3.4. Consumo de datos desde una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#199-34-Consumo-de-datos-desde-una-aplicación)
 
 
 
@@ -433,9 +433,9 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 4. Programming with Social Networks
 
 
-- [ ] [4.1. Panorama general de desarrollo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#201-41-Panorama-general-de-desarrollo)
-- [ ] [4.2. APIs para el desarrollo con redes sociales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#202-42-APIs-para-el-desarrollo-con-redes-sociales)
-- [ ] [4.3. Integración de social en una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#203-43-Integración-de-social-en-una-aplicación)
+- [x] [4.1. Panorama general de desarrollo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#201-41-Panorama-general-de-desarrollo)
+- [x] [4.2. APIs para el desarrollo con redes sociales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#202-42-APIs-para-el-desarrollo-con-redes-sociales)
+- [x] [4.3. Integración de social en una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#203-43-Integración-de-social-en-una-aplicación)
 
 
 
@@ -443,10 +443,10 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 5. Process in Background
 
 
-- [ ] [5.1. Concurrencia de procesos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#205-51-Concurrencia-de-procesos)
-- [ ] [5.2. Programación multi-hilos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#206-52-Programación-multi-hilos)
-- [ ] [5.3. Capacidades de multiprocesamiento en dispositivos móviles](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#207-53-Capacidades-de-multiprocesamiento-en-dispositivos-móviles)
-- [ ] [5.4. Integración de multiprocesamiento en una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#208-54-Integración-de-multiprocesamiento-en-una-aplicación)
+- [x] [5.1. Concurrencia de procesos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#205-51-Concurrencia-de-procesos)
+- [x] [5.2. Programación multi-hilos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#206-52-Programación-multi-hilos)
+- [x] [5.3. Capacidades de multiprocesamiento en dispositivos móviles](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#207-53-Capacidades-de-multiprocesamiento-en-dispositivos-móviles)
+- [x] [5.4. Integración de multiprocesamiento en una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#208-54-Integración-de-multiprocesamiento-en-una-aplicación)
 
 
 
@@ -454,9 +454,9 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 6. Programming with Sensors
 
 
-- [ ] [6.1. Localización geográfica por GPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#210-61-Localización-geográfica-por-GPS)
-- [ ] [6.2. Detección de movimiento y orientación del dispositivo (acelerómetro)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#211-62-Detección-de-movimiento-y-orientación-del-dispositivo-acelerómetro)
-- [ ] [6.3. Uso del hardware bluetooth](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#212-63-Uso-del-hardware-bluetooth)
+- [x] [6.1. Localización geográfica por GPS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#210-61-Localización-geográfica-por-GPS)
+- [x] [6.2. Detección de movimiento y orientación del dispositivo (acelerómetro)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#211-62-Detección-de-movimiento-y-orientación-del-dispositivo-acelerómetro)
+- [x] [6.3. Uso del hardware bluetooth](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#212-63-Uso-del-hardware-bluetooth)
 
 
 
@@ -464,13 +464,13 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 ### 7. Mobile Application Security
 
 
-- [ ] [7.1. Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#213-7-SEGURIDAD-EN-APLICACIONES-MÓVILES-71-Autenticación)
-- [ ] [7.1.1 Autenticación simple](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#214-711-Autenticación-simple)
-- [ ] [7.1.2 Autenticación simple mediante API](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#215-712-Autenticación-simple-mediante-API)
-- [ ] [7.1.3 Autenticación doble](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#216-713-Autenticación-doble)
-- [ ] [7.1.4 Manejo de sesiones y tokens](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#217-714-Manejo-de-sesiones-y-tokens)
-- [ ] [7.2. Cifrado de la información](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#218-72-Cifrado-de-la-información)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#219-ENTREGABLE-DEL-MÓDULO)
+- [x] [7.1. Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#213-7-SEGURIDAD-EN-APLICACIONES-MÓVILES-71-Autenticación)
+- [x] [7.1.1 Autenticación simple](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#214-711-Autenticación-simple)
+- [x] [7.1.2 Autenticación simple mediante API](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#215-712-Autenticación-simple-mediante-API)
+- [x] [7.1.3 Autenticación doble](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#216-713-Autenticación-doble)
+- [x] [7.1.4 Manejo de sesiones y tokens](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#217-714-Manejo-de-sesiones-y-tokens)
+- [x] [7.2. Cifrado de la información](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#218-72-Cifrado-de-la-información)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#219-ENTREGABLE-DEL-MÓDULO)
 
 
 
@@ -483,19 +483,19 @@ Period: Jan/06/2023 - Jan/28/2023, Duration: 40 hrs.
 
 Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
  
-- [ ] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#221-PRESENTACIÓN)
-- [ ] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#222-OBJETIVO)
+- [x] [Presentacion](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#221-PRESENTACIÓN)
+- [x] [Objetivo](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#222-OBJETIVO)
 
 ### 1. Working with Remote Data
 
 
-- [ ] [1.1 Detectar conexión de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#224-11-Detectar-conexión-de-datos)
-- [ ] [1.2 Detectar el tipo de conexión](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#225-12-Detectar-el-tipo-de-conexión)
-- [ ] [1.3 UIWebview para mostrar contenido HTML](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#226-13-UIWebview-para-mostrar-contenido-HTML)
-- [ ] [1.4 Abrir el navegador Safari desde una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#227-14-Abrir-el-navegador-Safari-desde-una-aplicación)
-- [ ] [1.5 Métodos de la clase NSURLConnection](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#228-15-Métodos-de-la-clase-NSURLConnection)
-- [ ] [1.6 Connections (POST y GET)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#229-16-Connections-POST-y-GET)
-- [ ] [1.7 Consumir WebServices](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#230-17-Consumir-WebServices)
+- [x] [1.1 Detectar conexión de datos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#224-11-Detectar-conexión-de-datos)
+- [x] [1.2 Detectar el tipo de conexión](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#225-12-Detectar-el-tipo-de-conexión)
+- [x] [1.3 UIWebview para mostrar contenido HTML](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#226-13-UIWebview-para-mostrar-contenido-HTML)
+- [x] [1.4 Abrir el navegador Safari desde una aplicación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#227-14-Abrir-el-navegador-Safari-desde-una-aplicación)
+- [x] [1.5 Métodos de la clase NSURLConnection](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#228-15-Métodos-de-la-clase-NSURLConnection)
+- [x] [1.6 Connections (POST y GET)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#229-16-Connections-POST-y-GET)
+- [x] [1.7 Consumir WebServices](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#230-17-Consumir-WebServices)
 
 
 
@@ -503,13 +503,13 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 ### 2. Integration of Multimedia Elements
 
 
-- [ ] [2.1 Usar imágenes de la librería](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#232-21-Usar-imágenes-de-la-librería)
-- [ ] [2.2 Obtener imágenes desde la cámara](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#233-22-Obtener-imágenes-desde-la-cámara)
-- [ ] [2.3 Reproducir archivos de audio](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#234-23-Reproducir-archivos-de-audio)
-- [ ] [2.4 Reproducir videos locales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#235-24-Reproducir-videos-locales)
-- [ ] [2.5 Reproducir videos por streaming](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#236-25-Reproducir-videos-por-streaming)
-- [ ] [2.6 Descargar imágenes de Internet](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#237-26-Descargar-imágenes-de-Internet)
-- [ ] [2.7 Descarga asíncrona de contenidos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#238-27-Descarga-asíncrona-de-contenidos)
+- [x] [2.1 Usar imágenes de la librería](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#232-21-Usar-imágenes-de-la-librería)
+- [x] [2.2 Obtener imágenes desde la cámara](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#233-22-Obtener-imágenes-desde-la-cámara)
+- [x] [2.3 Reproducir archivos de audio](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#234-23-Reproducir-archivos-de-audio)
+- [x] [2.4 Reproducir videos locales](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#235-24-Reproducir-videos-locales)
+- [x] [2.5 Reproducir videos por streaming](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#236-25-Reproducir-videos-por-streaming)
+- [x] [2.6 Descargar imágenes de Internet](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#237-26-Descargar-imágenes-de-Internet)
+- [x] [2.7 Descarga asíncrona de contenidos](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#238-27-Descarga-asíncrona-de-contenidos)
 
 
 
@@ -517,9 +517,9 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 ### 3. Communicate an App with other Apps
 
 
-- [ ] [3.1 URLSchemas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#240-31-URLSchemas)
-- [ ] [3.2 Utilizar el App de correo predeterminada](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#241-32-Utilizar-el-App-de-correo-predeterminada)
-- [ ] [3.3 Compartir contenido](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#242-33-Compartir-contenido)
+- [x] [3.1 URLSchemas](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#240-31-URLSchemas)
+- [x] [3.2 Utilizar el App de correo predeterminada](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#241-32-Utilizar-el-App-de-correo-predeterminada)
+- [x] [3.3 Compartir contenido](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#242-33-Compartir-contenido)
 
 
 
@@ -527,13 +527,13 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 ### 4. Communicate an App with other Apps
 
 
-- [ ] [4.1 Detectar movimiento (inclinación y rotación)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#244-41-Detectar-movimiento-inclinación-y-rotación)
-- [ ] [4.2 Detectar fuerza (aceleración)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#245-42-Detectar-fuerza-aceleración)
-- [ ] [4.3 Métodos para recuperar la Ubicación geográfica desde el dispositivo.](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#246-43-Métodos-para-recuperar-la-Ubicación-geográfica-desde-el-dispositivo)
-- [ ] [4.4 Integración de la API de Mapas en un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#247-44-Integración-de-la-API-de-Mapas-en-un-proyecto)
-- [ ] [4.5 Uso de coordenadas geográficas para colocar anotaciones en el mapa](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#248-45-Uso-de-coordenadas-geográficas-para-colocar-anotaciones-en-el-mapa)
-- [ ] [4.6 Uso de la conexión Bluetooth](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#249-46-Uso-de-la-conexión-Bluetooth)
-- [ ] [4.7 Conectar el teléfono con otro dispositivo iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#250-47-Conectar-el-teléfono-con-otro-dispositivo-iOS)
+- [x] [4.1 Detectar movimiento (inclinación y rotación)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#244-41-Detectar-movimiento-inclinación-y-rotación)
+- [x] [4.2 Detectar fuerza (aceleración)](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#245-42-Detectar-fuerza-aceleración)
+- [x] [4.3 Métodos para recuperar la Ubicación geográfica desde el dispositivo.](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#246-43-Métodos-para-recuperar-la-Ubicación-geográfica-desde-el-dispositivo)
+- [x] [4.4 Integración de la API de Mapas en un proyecto](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#247-44-Integración-de-la-API-de-Mapas-en-un-proyecto)
+- [x] [4.5 Uso de coordenadas geográficas para colocar anotaciones en el mapa](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#248-45-Uso-de-coordenadas-geográficas-para-colocar-anotaciones-en-el-mapa)
+- [x] [4.6 Uso de la conexión Bluetooth](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#249-46-Uso-de-la-conexión-Bluetooth)
+- [x] [4.7 Conectar el teléfono con otro dispositivo iOS](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#250-47-Conectar-el-teléfono-con-otro-dispositivo-iOS)
 
 
 
@@ -541,15 +541,15 @@ Period: Feb/03/2023 - Feb/25/2023, Duration: 40 hrs.
 ### 5. Security in Mobile Applications
 
 
-- [ ] [5.1 Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#252-51-Autenticación)
-- [ ] [5.1.1 Métodos de autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#253-511-Métodos-de-autenticación)
-- [ ] [5.1.2 Autenticación simple](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#254-512-Autenticación-simple)
-- [ ] [5.1.3 Autenticación simple mediante API]()
-- [ ] [5.1.4 Autenticación doble](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#255-513-Autenticación-simple-mediante-API-514-Autenticación-doble)
-- [ ] [5.2 Manejo de sesiones y tokens](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#256-52-Manejo-de-sesiones-y-tokens)
-- [ ] [5.3 Cifrado de la información](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#257-53-Cifrado-de-la-información)
-- [ ] [5.4 Detección de “jailbreaking”](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#258-54-Detección-de-“jailbreaking”)
-- [ ] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#259-ENTREGABLE-DEL-MÓDULO)
+- [x] [5.1 Autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#252-51-Autenticación)
+- [x] [5.1.1 Métodos de autenticación](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#253-511-Métodos-de-autenticación)
+- [x] [5.1.2 Autenticación simple](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#254-512-Autenticación-simple)
+- [x] [5.1.3 Autenticación simple mediante API]()
+- [x] [5.1.4 Autenticación doble](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#255-513-Autenticación-simple-mediante-API-514-Autenticación-doble)
+- [x] [5.2 Manejo de sesiones y tokens](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#256-52-Manejo-de-sesiones-y-tokens)
+- [x] [5.3 Cifrado de la información](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#257-53-Cifrado-de-la-información)
+- [x] [5.4 Detección de “jailbreaking”](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#258-54-Detección-de-“jailbreaking”)
+- [x] [ENTREGABLE DEL MÓDULO](https://github.com/c4arl0s/advanced-ios-and-android-development-diploma-course#259-ENTREGABLE-DEL-MÓDULO)
 
 
 
